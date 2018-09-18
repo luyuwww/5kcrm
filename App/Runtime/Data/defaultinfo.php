@@ -1,1 +1,0 @@
-<?php	return array ( 'name' => '华文信通CRM', 'description' => 'HAMS华文系统科技有限公司', 'state' => '北京', 'city' => '北京', 'allow_file_type' => 'pdf,doc,jpg,png,gif,txt,doc,xls,zip,docx', 'contract_alert_time' => 30, 'task_model' => '2', 'logo' => NULL, );?>

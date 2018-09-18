@@ -45,7 +45,7 @@
         'STATISTICS'=>'统计',
         'AUTHOR'	=>'HWXT-CRM',
         'RIGHTS'	=>'HWXT-CRM &copy; @北京华文信通科技有限公司 2012-2016',
-        'LOGIN_TITLE'	=>'员工登录 - Powered By 悟空CRM',
+        'LOGIN_TITLE'	=>'员工登录 - Powered By HWXT-CRM',
         'USING_HELP'=>'使用帮助',
         'TECHNICAL_SUPPORT'=>'技术支持',
         'CONTACT_US'=>'联系我们',
