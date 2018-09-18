@@ -335,7 +335,7 @@
 	<p>2.您可以开启调试模式，查看问题详情; &nbsp;  &nbsp; ',
         'ERROR_TIPS_2'=>'<p>3.您可以在论坛提问  &nbsp;  &nbsp; <a target="_blank" href="http://bbs.5kcrm.com/forum.php?mod=forumdisplay&fid=60">去论坛</a>;  &nbsp;  &nbsp; &nbsp; 或者加入我们的官方QQ交流群 &nbsp;  &nbsp; <a target="_blank" href="http://wp.qq.com/wpa/qunwpa?idkey=27c428d287ccdde0112503a6c20409f58f8722fb116fa6788c45b7faa7f26f1c">273573446</a>
 		<br />热心的悟空用户和官方人员会在很短时间内帮您解决问题 </p>
-	<p>4.商业用户可以通过电话等多种联系方式联系售后人员; &nbsp;  &nbsp; <a target="_blank" href="http://www.5kcrm.com/index.php?m=feedback">点击查看联系方式 </a></p>',
+	<p>4.商业用户可以通过电话等多种联系方式联系售后人员; &nbsp;  &nbsp; <a target="_blank" href="http://www.hwxt.com.cn/index.php?m=feedback">点击查看联系方式 </a></p>',
 		'YOU_DO_NOT_HAVE_THIS_RIGHT'=>'您没有此权利!',
 		'THE_CURRENT_SYSTEM_IS_CERTIFIED_AS_FREE_USER_PLEASE_OBSERVE_THE_5KCRM_GOKU'=>'当前系统认证为免费用户,请遵守HWXT-CRM规范！',
 		'LICENSE_INFORMATION'=>'授权信息',
@@ -347,7 +347,7 @@
 		'AUTHORIZED DATE'=>'授权日期',
 		'COMPANY NAME'=>'公司名',
 		'COMPANY ADDRESS'=>'公司地址',
-		'YOUR CURRENT SYSTEM AUTHORIZATION INFORMATION:COMMUNITY FREE VERSION'=>'您当前的系统授权信息为：社区免费版！<br/>请遵守HWXT-CRM软件开源协议，如有侵权将依法承担法律责任!<br/><a target="_blank" href="http://www.5kcrm.com/index.php?m=feedback">联系我们</a>，获取更多服务!',
+		'YOUR CURRENT SYSTEM AUTHORIZATION INFORMATION:COMMUNITY FREE VERSION'=>'您当前的系统授权信息为：社区免费版！<br/>请遵守HWXT-CRM软件开源协议，如有侵权将依法承担法律责任!<br/><a target="_blank" href="http://www.hwxt.com.cn/index.php?m=feedback">联系我们</a>，获取更多服务!',
 		'FORM_REPEAT_SUBMIT'			=>	'请勿重复提交！',
 		'OPEN'			=>	'开启',
 		'SUCCESSFUL OPERATION'			=>	'操作成功！',

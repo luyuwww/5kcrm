@@ -332,7 +332,7 @@
 	<p>2.You can open the debug mode and check the problem details; &nbsp;  &nbsp; ",
         'ERROR_TIPS_2'=>'<p>3.You can in the BBS to ask questions  &nbsp;  &nbsp; <a target="_blank" href="http://bbs.5kcrm.com/forum.php?mod=forumdisplay&fid=60">Go to the BBS</a>;  &nbsp;  &nbsp; &nbsp; Or join our official QQ group communication &nbsp;  &nbsp; <a target="_blank" href="http://wp.qq.com/wpa/qunwpa?idkey=27c428d287ccdde0112503a6c20409f58f8722fb116fa6788c45b7faa7f26f1c">273573446</a>
 		<br />The zealous wukong users and officials will be in a very short time to help you solve the problem </p>
-	<p>4.Business users can through telephone contact after-sales personnel, and other contact information; &nbsp;  &nbsp; <a target="_blank" href="http://www.5kcrm.com/index.php?m=feedback">Click to view contact information </a></p>',
+	<p>4.Business users can through telephone contact after-sales personnel, and other contact information; &nbsp;  &nbsp; <a target="_blank" href="http://www.hwxt.com.cn/index.php?m=feedback">Click to view contact information </a></p>',
 		'YOU_DO_NOT_HAVE_THIS_RIGHT'=>'You do not have this right!',
 
     );

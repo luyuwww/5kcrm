@@ -137,7 +137,7 @@ function webscan_pape(){
 					<p><small>
 						<a href="http://5kcrm.com/index.php?m=doc" target="_blank">使用帮助</a>
 						<span class="muted">&middot;</span>
-						<a href="http://www.5kcrm.com/" target="_blank">技术支持</a>
+						<a href="http://www.hwxt.com.cn/" target="_blank">技术支持</a>
 						<span class="muted">&middot;</span>
 						<a href="http://www.ccds24.com" target="_blank">联系我们</a>
 					</small></p>

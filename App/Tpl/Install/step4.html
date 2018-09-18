@@ -26,7 +26,7 @@
 			<div style="clear:both;"></div>
         </div>    
         </div>
-        <div class="footer"><a href="http://www.5kcrm.com" target="_blank">© 2012 - 2016 悟空CRM & 卡卡罗特软件科技有限公司 豫ICP备13004021号</a>  </div>
+        <div class="footer"><a href="http://www.hwxt.com.cn" target="_blank">© 2012 - 2016 悟空CRM & 卡卡罗特软件科技有限公司 豫ICP备13004021号</a>  </div>
     </body>
 	<script type="text/javascript">
 	window.onload = function(){
