@@ -118,11 +118,11 @@ body {
 				<div class="span9">
 					<p><?php echo L('RIGHTS');?></p>
 					<p><small>
-						<a href="http://www.5kcrm.com/index.php?m=Doc" target="_blank"><?php echo L('USING_HELP');?></a>
+						<a href="http://www.hwxt.com.cn/index.php?m=Doc" target="_blank"><?php echo L('USING_HELP');?></a>
 						<span class="muted">&middot;</span>
-						<a href="http://www.5kcrm.com/" target="_blank"><?php echo L('TECHNICAL_SUPPORT');?></a>
+						<a href="http://www.hwxt.com.cn/" target="_blank"><?php echo L('TECHNICAL_SUPPORT');?></a>
 						<span class="muted">&middot;</span>
-						<a href="http://www.5kcrm.com/" target="_blank"><?php echo L('CONTACT_US');?></a>
+						<a href="http://www.hwxt.com.cn/" target="_blank"><?php echo L('CONTACT_US');?></a>
 					</small></p>
 				</div>
 			</div>

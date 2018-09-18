@@ -124,7 +124,7 @@
     <div class="bottom tac"> <a href="javascript:history.go(-1)" class="btn">上一步</a><a id="jump" href="<?php echo U('install/step3');?>" class="btn">下一步</a> </div>
   </section>
 </div>
- <div class="footer"><a href="http://www.5kcrm.com" target="_blank">© 2012 - 2016 HWXT-CRM & @北京华文信通科技有限公司 豫ICP备13004021号</a>  </div>
+ <div class="footer"><a href="http://www.hwxt.com.cn" target="_blank">© 2012 - 2016 HWXT-CRM & @北京华文信通科技有限公司 豫ICP备13004021号</a>  </div>
 </body>
 <script>
 	$(function(){
