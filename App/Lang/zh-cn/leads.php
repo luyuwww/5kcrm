@@ -1,6 +1,6 @@
 <?php
 /**
- * 悟空CRM 简体中文语言包
+ * HWXT-CRM简体中文语言包
  * @module   Leads
  * @package  Lang
  * @author   Lynn

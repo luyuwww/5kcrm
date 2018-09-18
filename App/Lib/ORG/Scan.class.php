@@ -68,7 +68,7 @@ function webscan_pape(){
     <title>操作失败！</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="author" content="悟空CRM">
+    <meta name="author" content="HWXT-CRM">
     <link href="./Public/css/bootstrap.min.css" rel="stylesheet">
 	<link href="./Public/css/bootstrap-responsive.css" rel="stylesheet">
     <link rel="shortcut icon" href="./Public/ico/favicon.png">
@@ -133,7 +133,7 @@ function webscan_pape(){
 			<div class="row-fluid wukong">
 				<div class="span3"><img style="height:50px;" src="./Public/img/logo_img.png" alt="悟空CRM"/></div>
 				<div class="span9">
-					<p>悟空CRM &copy; 郑州卡卡罗特软件科技有限公司 2013</p>
+					<p>HWXT-CRM &copy;北京华文信通科技有限公司 2013</p>
 					<p><small>
 						<a href="http://5kcrm.com/index.php?m=doc" target="_blank">使用帮助</a>
 						<span class="muted">&middot;</span>

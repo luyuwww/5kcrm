@@ -28,9 +28,9 @@
 	'DELETE_STATE'=>'删除状态',	
 	'CONFIRM_TO_DELETE_CONTENT'=>'删除状态',	
 
-	 'EMALI_CONTENT'=>'这是一封悟空CRM系统自动生成测试邮件，如果你成功收到，证明悟空smtp设置成功！请勿回复',
-    'EMALI_TITLE'=>'悟空CRM邮箱测试',
-    'EMALI_AUTOGRAPH'=>'悟空CRM管理员',
+	 'EMALI_CONTENT'=>'这是一封HWXT-CRM系统自动生成测试邮件，如果你成功收到，证明悟空smtp设置成功！请勿回复',
+    'EMALI_TITLE'=>'HWXT-CRM邮箱测试',
+    'EMALI_AUTOGRAPH'=>'HWXT-CRM管理员',
     'SENT SUCCESSFULLY'=>'发送成功！',
     'SENT SUCCESSFULLY SMS'=>'发送成功！',
     'SENT FAILED'=>'发送失败，信息错误！',

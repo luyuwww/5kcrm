@@ -5,7 +5,7 @@
 	'DEAR'=>'尊敬的%s:  <br/><br/> &nbsp; &nbsp; &nbsp; 这是一封系统自动生成的日程通知邮件!
 						<br/> &nbsp; &nbsp; &nbsp; 内容如下：<br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 主题：%s <br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 日程开始日期：%s &nbsp; 日程截止日期：%s<br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 日程地点：%s<br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 日程内容：%s',
 	'ADD_A_SUCCESS'=>'添加成功!',
-	'WUKONG_NOTIFICATIONS'=>'悟空CRM日程通知',
+	'WUKONG_NOTIFICATIONS'=>'HWXT-CRM日程通知',
 	'WUKONG_SYS'=>'悟空CRM管理员',
 	'SCHEDULE_TO_ADD_FAILURE'=>'日程添加失败!',
 	'SHUT_DOWN_SCHEDULE_FAILURE'=>'关闭日程失败!',
