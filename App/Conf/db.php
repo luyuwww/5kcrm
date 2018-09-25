@@ -1,8 +1,8 @@
 <?php
 return array(
 'DB_TYPE'=>'mysql',
-'DB_HOST'=>'cdb-pq015a5k.bj.tencentcdb.com',
-'DB_PORT'=>'10031',
+'DB_HOST'=>'localhost',
+'DB_PORT'=>'3306',
 'DB_NAME'=>'wk',
 'DB_USER'=>'root',
 'DB_PWD'=>'luyuams2000',
